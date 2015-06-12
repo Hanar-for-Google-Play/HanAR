@@ -11,3 +11,8 @@ Run the HanAR.exe and now follow steps below :)
 2. Copy the URL and paste it into HanAR program.
 3. Press Enter
 4. Now watch the results!
+
+
+
+*You need Java to run this program. Most computers would have java already. 
+But if not, please go to www.java.com and patch it!
